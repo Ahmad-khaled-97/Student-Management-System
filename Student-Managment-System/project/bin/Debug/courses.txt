@@ -1,0 +1,168 @@
+course name        : Introduction to computer 
+course code        : CHW160
+max num of students: 5
+students in course : 2
+prerequired course : -
+credit hours       : 4
+-------------------------------------------------
+course name        : Introduction to Biology 
+course code        : BSC122
+max num of students: 5
+students in course : 2
+prerequired course : -
+credit hours       : 2
+-------------------------------------------------
+course name        : Physics 
+course code        : BSC125
+max num of students: 5
+students in course : 2
+prerequired course : -
+credit hours       : 3
+-------------------------------------------------
+course name        : Math1 
+course code        : BSC120
+max num of students: 5
+students in course : 2
+prerequired course : -
+credit hours       : 4
+-------------------------------------------------
+course name        : English1 
+course code        : HUM110
+max num of students: 5
+students in course : 2
+prerequired course : -
+credit hours       : 2
+-------------------------------------------------
+course name        : Humanities 
+course code        : HUM114
+max num of students: 5
+students in course : 2
+prerequired course : -
+credit hours       : 2
+-------------------------------------------------
+course name        : Structural Programming 
+course code        : CSW150
+max num of students: 5
+students in course : 2
+prerequired course : CHW160
+credit hours       : 3
+-------------------------------------------------
+course name        : Introduction to Biochemistry 
+course code        : BSC123
+max num of students: 5
+students in course : 2
+prerequired course : BSC120
+credit hours       : 2
+-------------------------------------------------
+course name        : Electronics 
+course code        : BSC127
+max num of students: 5
+students in course : 2
+prerequired course : BSC121
+credit hours       : 3
+-------------------------------------------------
+course name        : Mathematics2 
+course code        : BSC121
+max num of students: 5
+students in course : 2
+prerequired course : BSC122
+credit hours       : 4
+-------------------------------------------------
+course name        : English2 
+course code        : HUM111
+max num of students: 5
+students in course : 2
+prerequired course : HUM110
+credit hours       : 2
+-------------------------------------------------
+course name        : Report Writing 
+course code        : HUM112
+max num of students: 5
+students in course : 2
+prerequired course : -
+credit hours       : 2
+-------------------------------------------------
+course name        : Introduction to Cell Biology 
+course code        : BSC220
+max num of students: 5
+students in course : 2
+prerequired course : BSC123
+credit hours       : 2
+-------------------------------------------------
+course name        : Data Structure 
+course code        : DBA270
+max num of students: 5
+students in course : 3
+prerequired course : CSW150
+credit hours       : 3
+-------------------------------------------------
+course name        : Mathmatics3 
+course code        : BSC222
+max num of students: 5
+students in course : 2
+prerequired course : BSC125
+credit hours       : 4
+-------------------------------------------------
+course name        : Introduction to Biophysics 
+course code        : BSC221
+max num of students: 5
+students in course : 2
+prerequired course : BSC124
+credit hours       : 2
+-------------------------------------------------
+course name        : Probability and Statistics 
+course code        : SCC232
+max num of students: 5
+students in course : 2
+prerequired course : BSC122
+credit hours       : 3
+-------------------------------------------------
+course name        : Operation Research 
+course code        : SCC231
+max num of students: 5
+students in course : 2
+prerequired course : -
+credit hours       : 3
+-------------------------------------------------
+course name        : Advanced Molecular Genetics  
+course code        : BSC224
+max num of students: 5
+students in course : 3
+prerequired course : BSC220
+credit hours       : 2
+-------------------------------------------------
+course name        : Object Oriented Programming 
+course code        : CSW251
+max num of students: 5
+students in course : 3
+prerequired course : CSW150
+credit hours       : 3
+-------------------------------------------------
+course name        : Mathematics4 
+course code        : BSC228
+max num of students: 5
+students in course : 2
+prerequired course : BSC221
+credit hours       : 4
+-------------------------------------------------
+course name        : File Organization 
+course code        : DBA271
+max num of students: 5
+students in course : 2
+prerequired course : DBA270
+credit hours       : 3
+-------------------------------------------------
+course name        : Business Organization 
+course code        : HUM215
+max num of students: 5
+students in course : 3
+prerequired course : -
+credit hours       : 2
+-------------------------------------------------
+course name        : Logic Design
+course code        : CHW261
+max num of students: 5
+students in course : 2
+prerequired course : BSC124
+credit hours       : 3
+-------------------------------------------------

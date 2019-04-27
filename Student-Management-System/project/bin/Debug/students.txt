@@ -1,0 +1,63 @@
+Name         : ahmed khaled abdelaal
+ID           : 1
+Password     : 1515
+finished Crs : CHW160 BSC121
+course Prog  : BSC127
+Academic Year: 4
+--------------------------------------
+Name         : ahmed khaled a
+ID           : 2
+Password     : 1256
+finished Crs : HUM110 BSC122
+course Prog  : HUM111
+Academic Year: 2
+--------------------------------------
+Name         : ahmed khaled b
+ID           : 3
+Password     : 1815
+finished Crs : CHW160 BSC122
+course Prog  : CSW150
+Academic Year: 4
+--------------------------------------
+Name         : ahmed khaled c
+ID           : 4
+Password     : 1111
+finished Crs : BSC120
+course Prog  : BSC123
+Academic Year: 4
+---------------------------------------
+Name         : ahmed d
+ID           : 5
+Password     : 14444
+finished Crs : CSW150 BSC123
+course Prog  : BSC220
+Academic Year: 3
+---------------------------------------
+Name         : ahmed e
+ID           : 6
+Password     : 11121
+finished Crs : HUM110 HUM114
+course Prog  : HUM111
+Academic Year: 2
+---------------------------------------
+Name         : ahmed f
+ID           : 7
+Password     : 1111
+finished Crs : BSC220 CSW150
+course Prog  : CSW251 
+Academic Year: 2
+---------------------------------------
+Name         : ahmed g
+ID           : 8
+Password     : 1555
+finished Crs : BSC221
+course Prog  : BSC228
+Academic Year: 1
+---------------------------------------
+Name         : ahmed h
+ID           : 9
+Password     : 11234
+finished Crs : DBA270 BSC124
+course Prog  : CHW261
+Academic Year: 1
+---------------------------------------
